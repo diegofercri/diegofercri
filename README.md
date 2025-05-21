@@ -11,16 +11,14 @@ Hi! I'm Diego, a multiplatform application developer passionate about UI and UX 
      
 <h3 align="left">Languages & frameworks:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-<img width="50px" src="https://diegofercri.dev/assets/css.svg" />
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,js,ts,react,cs,java,kotlin)](https://skillicons.dev)
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,tailwind,cs,java,kotlin)](https://skillicons.dev)
+<img width="45px" src="https://diegofercri.dev/assets/jetpackcompose.svg" />
 
 
 <h3 align="left">Databases:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
-<img aling="left" width="50px" src="https://diegofercri.dev/assets/oracle.svg" />
+[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
+<img aling="left" width="48px" src="https://diegofercri.dev/assets/oracle.svg" />
 
 
 <h3 align="left">BAAS:</h3>
@@ -30,14 +28,17 @@ Hi! I'm Diego, a multiplatform application developer passionate about UI and UX 
 
 <h3 align="left">Infrastructure:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=azure,cloudflare,linux,docker,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,cloudflare,linux,docker)](https://skillicons.dev)
+<img aling="left" width="50px" height="45px" src="https://diegofercri.dev/assets/proxmox.svg" />
 
 
 <h3 align="left">Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-<img aling="left" width="50px" height="50px" src="https://diegofercri.dev/assets/supermaven.svg" />
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
+<img aling="left" width="50px" height="45px" src="https://diegofercri.dev/assets/supermaven.svg" />
+<img aling="left" width="50px" height="45px" src="https://diegofercri.dev/assets/bitwarden.svg" />
+<img aling="left" width="50px" height="45px" src="https://diegofercri.dev/assets/1password.svg" />
+
 
 <h3 align="left">IDEs:</h3>
 
