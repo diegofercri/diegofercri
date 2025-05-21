@@ -36,7 +36,7 @@ Hi! I'm Diego, a multiplatform application developer passionate about UI and UX 
 <h3 align="left">Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-<img aling="left" width="50px" heigh="50px" src="https://diegofercri.dev/assets/supermaven.svg" />
+<img aling="left" width="50px" height="50px" src="https://diegofercri.dev/assets/supermaven.svg" />
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 <h3 align="left">IDEs:</h3>
