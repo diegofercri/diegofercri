@@ -27,7 +27,7 @@ Hi! I'm Diego, a multiplatform application developer passionate about UI and UX 
 <h3 align="left">Infrastructure:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=docker,azure,cloudflare,linux)](https://skillicons.dev)
-<img aling="left" width="50px" height="45px" src="https://diegofercri.dev/assets/proxmox-light.svg" />
+<img aling="left" width="48px" src="https://diegofercri.dev/assets/proxmox-light.svg" />
 
 
 <h3 align="left">Tools:</h3>
