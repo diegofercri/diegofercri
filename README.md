@@ -46,3 +46,19 @@ Hi! I'm Diego, a multiplatform application developer passionate about UI and UX 
 <h3 align="left">Skills I would like to develop in <b>2025</b>:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=react,flutter,swift,go)](https://diegofercri.dev)
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diegofercri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diegofercri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@diegofercri.dev) 
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=diegofercri&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=diegofercri&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofercri&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=diegofercri&icon=5&color=4)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/diegofercri)
