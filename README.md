@@ -6,7 +6,6 @@ Hi! I'm Diego, a multiplatform application developer passionate about UI and UX 
 - 🌱 I’m currently learning **React Native and UI / UX design**</br>
 - 👨‍💻 All of my projects are available at [diegofercri.dev](diegofercri.dev)</br>
 - 📫 How to reach me **contact@diegofercri.dev**</br>
-</br>
      
 <h3 align="left">Languages & frameworks:</h3>
 
