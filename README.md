@@ -1,13 +1,11 @@
 <h1 align="center"><b>Hi, I'm Diego </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Hi! I'm Diego, a multiplatform application developer passionate about UI and UX design. I'm enthusiastic about photography, cinema, and music, and I'm a gaming geek. My passion for technology, innovation, and perfection have brought me here, and I firmly believe that 1% improvements are what make the difference. Now, I’d like to talk about my qualities:</br></br>       
-  - 🔭 I’m currently working on [matchstats19](https://github.com/diegofercri/matchstats19_docs)
+Hi! I'm Diego, a multiplatform application developer passionate about UI and UX design. I'm enthusiastic about photography, cinema, and music, and I'm a gaming geek. My passion for technology, innovation, and perfection have brought me here, and I firmly believe that 1% improvements are what make the difference. Now, I’d like to talk about my qualities:</br>
 
-  - 🌱 I’m currently learning **React Native and Flutter**
-
-  - 👨‍💻 All of my projects are available at [diegofercri.dev](diegofercri.dev)
-
-  - 📫 How to reach me **contact@diegofercri.dev**
+- 🔭 I’m currently working on [matchstats19](https://github.com/diegofercri/matchstats19_docs)</br>
+- 🌱 I’m currently learning **React Native and UI / UX design**</br>
+- 👨‍💻 All of my projects are available at [diegofercri.dev](diegofercri.dev)</br>
+- 📫 How to reach me **contact@diegofercri.dev**</br>
      
 <h3 align="left">Languages & frameworks:</h3>
 
