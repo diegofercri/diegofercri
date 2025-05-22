@@ -5,7 +5,7 @@
 <p align="left">
 Hi! I'm Diego, a multiplatform application developer passionate about UI and UX design. I'm enthusiastic about photography, cinema, and music, and I'm a gaming geek. My passion for technology, innovation, and perfection have brought me here, and I firmly believe that 1% improvements are what make the difference. Now, I’d like to talk about my qualities:</br>
 </p>
-<ul>
+<ul align="left">
           <li>🔭 I’m currently working on [matchstats19](https://github.com/diegofercri/matchstats19_docs)</li>
           <li>🌱 I’m currently learning **React Native and UI / UX design**</li>
           <li>👨‍💻 All of my projects are available at [diegofercri.dev](diegofercri.dev)</li>
