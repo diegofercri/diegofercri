@@ -16,38 +16,59 @@ Hi! I'm Diego, a multiplatform application developer passionate about UI and UX 
 
 <h3>Languages & frameworks:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,tailwind)](https://diegofercri.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=cs,java,kotlin)](https://diegofercri.dev)
-[<img width="45px" src="https://diegofercri.dev/assets/jetpackcompose.svg" />](https://diegofercri.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en/docs/Web/CSS)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
+[![React](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://www.nativewind.dev/)<br/>
+[![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org)
+[<img width="45px" src="https://diegofercri.dev/assets/jetpackcompose.svg" />](https://developer.android.com/jetpack/compose)
 
 <h3>Databases:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://diegofercri.dev)
-[<img width="48px" src="https://diegofercri.dev/assets/oracle.svg" />](https://diegofercri.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org)
+[<img width="48px" src="https://diegofercri.dev/assets/oracle.svg" />](https://www.oracle.com/database)
 
 <h3>BAAS:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=supabase,firebase)](https://diegofercri.dev)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
 
 <h3>Infrastructure:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,azure,cloudflare,linux)](https://diegofercri.dev)
-[<img width="48px" src="https://diegofercri.dev/assets/proxmox-light.svg" />](https://diegofercri.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)
+[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
+[<img width="48px" src="https://diegofercri.dev/assets/proxmox-light.svg" />](https://www.proxmox.com)
 
 <h3>Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://diegofercri.dev)
-[<img width="50px" height="45px" src="https://diegofercri.dev/assets/supermaven.svg" />](https://diegofercri.dev)
-[<img width="50px" height="45px" src="https://diegofercri.dev/assets/bitwarden.svg" />](https://diegofercri.dev)
-[<img width="50px" height="45px" src="https://diegofercri.dev/assets/1password.svg" />](https://diegofercri.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
+[<img width="50px" height="45px" src="https://diegofercri.dev/assets/supermaven.svg" />](https://supermaven.com)
+[<img width="50px" height="45px" src="https://diegofercri.dev/assets/bitwarden.svg" />](https://bitwarden.com)
+[<img width="50px" height="45px" src="https://diegofercri.dev/assets/1password.svg" />](https://1password.com)
 
 <h3>IDEs:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,eclipse)](https://diegofercri.dev)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com)
+[![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
+[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea)
+[![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org)
 
-<h3>Skills I would like to develop in <b>2025</b>:</h3>
+<h3>Skills I would like to develop in 2025:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,flutter,swift,go)](https://diegofercri.dev)
+[![React Native](https://skillicons.dev/icons?i=react)](https://reactnative.dev)
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
+[![Swift](https://skillicons.dev/icons?i=swift)](https://developer.apple.com/swift)
+[![Go](https://skillicons.dev/icons?i=go)](https://go.dev)
 
 <h3>My GitHub Stats:</h3>
 
