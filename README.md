@@ -9,40 +9,40 @@ Hi! I'm Diego, a multiplatform application developer passionate about UI and UX 
      
 <h3 align="left">Languages & frameworks:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,tailwind,cs,java,kotlin)](https://skillicons.dev)
-<img width="45px" src="https://diegofercri.dev/assets/jetpackcompose.svg" />
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,tailwind,cs,java,kotlin)](https://diegofercri.dev)
+[<img width="45px" src="https://diegofercri.dev/assets/jetpackcompose.svg" />](https://diegofercri.dev)
 
 
 <h3 align="left">Databases:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
-<img aling="left" width="48px" src="https://diegofercri.dev/assets/oracle.svg" />
+[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://diegofercri.dev)
+[<img aling="left" width="48px" src="https://diegofercri.dev/assets/oracle.svg" />](https://diegofercri.dev)
 
 
 <h3 align="left">BAAS:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=supabase,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,firebase)](https://diegofercri.dev)
 
 
 <h3 align="left">Infrastructure:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,azure,cloudflare,linux)](https://skillicons.dev)
-<img aling="left" width="48px" src="https://diegofercri.dev/assets/proxmox-light.svg" />
+[![My Skills](https://skillicons.dev/icons?i=docker,azure,cloudflare,linux)](https://diegofercri.dev)
+[<img aling="left" width="48px" src="https://diegofercri.dev/assets/proxmox-light.svg" />](https://diegofercri.dev)
 
 
 <h3 align="left">Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
-<img aling="left" width="50px" height="45px" src="https://diegofercri.dev/assets/supermaven.svg" />
-<img aling="left" width="50px" height="45px" src="https://diegofercri.dev/assets/bitwarden.svg" />
-<img aling="left" width="50px" height="45px" src="https://diegofercri.dev/assets/1password.svg" />
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://diegofercri.dev)
+[<img aling="left" width="50px" height="45px" src="https://diegofercri.dev/assets/supermaven.svg" />](https://diegofercri.dev)
+[<img aling="left" width="50px" height="45px" src="https://diegofercri.dev/assets/bitwarden.svg" />](https://diegofercri.dev)
+[<img aling="left" width="50px" height="45px" src="https://diegofercri.dev/assets/1password.svg" />](https://diegofercri.dev)
 
 
 <h3 align="left">IDEs:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,eclipse)](https://diegofercri.dev)
           
 
 <h3 align="left">Skills I would like to develop in <b>2025</b>:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,flutter,swift,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,flutter,swift,go)](https://diegofercri.dev)
