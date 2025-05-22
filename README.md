@@ -21,8 +21,8 @@ Hi! I'm Diego, a multiplatform application developer passionate about UI and UX 
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en/docs/Web/JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
-[![React](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://www.nativewind.dev/)<br/>
+[![React](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)<br/>
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://www.nativewind.dev/)
 [![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
 [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org)
