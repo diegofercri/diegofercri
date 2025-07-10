@@ -8,8 +8,8 @@
 Hi! I'm Diego, a multiplatform application developer passionate about UI and UX design. I'm enthusiastic about photography, cinema, and music, and I'm a gaming geek. My passion for technology, innovation, and perfection have brought me here, and I firmly believe that 1% improvements are what make the difference. Now, I’d like to talk about my qualities:</br>
 </p>
 <ul align="left">
-    <li>🔭 I’m currently working on <a href="https://github.com/diegofercri/matchstats19_docs">matchstats19</a></li>
-    <li>🌱 I’m currently learning <b>React Native and UI / UX design</b></li>
+    <li>🔭 I’m currently working on <a href="[https://github.com/diegofercri/matchstats19_docs](https://www.m2maplicaciones.io/)">M2M Aplicaciones</a></li>
+    <li>🌱 I’m currently learning <b>Cybersecurity and UI / UX design</b></li>
     <li>👨‍💻 All of my projects are available at <a href="https://diegofercri.dev">diegofercri.dev</a></li>
     <li>📫 How to reach me <a href="mailto:contact@diegofercri.dev">contact@diegofercri.dev</a></li>
 </ul>
@@ -19,10 +19,6 @@ Hi! I'm Diego, a multiplatform application developer passionate about UI and UX 
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en/docs/Web/CSS)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en/docs/Web/JavaScript)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
-[![React](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)<br/>
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://www.nativewind.dev/)
 [![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
 [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org)
@@ -51,8 +47,6 @@ Hi! I'm Diego, a multiplatform application developer passionate about UI and UX 
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
-[<img width="50px" height="45px" src="https://diegofercri.dev/assets/supermaven.svg" />](https://supermaven.com)
-[<img width="50px" height="45px" src="https://diegofercri.dev/assets/bitwarden.svg" />](https://bitwarden.com)
 [<img width="50px" height="45px" src="https://diegofercri.dev/assets/1password.svg" />](https://1password.com)
 
 <h3>IDEs:</h3>
