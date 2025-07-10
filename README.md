@@ -8,7 +8,7 @@
 Hi! I'm Diego, a multiplatform application developer passionate about UI and UX design. I'm enthusiastic about photography, cinema, and music, and I'm a gaming geek. My passion for technology, innovation, and perfection have brought me here, and I firmly believe that 1% improvements are what make the difference. Now, I’d like to talk about my qualities:</br>
 </p>
 <ul align="left">
-    <li>🔭 I’m currently working on <a href="[https://github.com/diegofercri/matchstats19_docs](https://www.m2maplicaciones.io/)">M2M Aplicaciones</a></li>
+    <li>🔭 I’m currently working on <a href="https://www.m2maplicaciones.io/">M2M Aplicaciones</a></li>
     <li>🌱 I’m currently learning <b>Cybersecurity and UI / UX design</b></li>
     <li>👨‍💻 All of my projects are available at <a href="https://diegofercri.dev">diegofercri.dev</a></li>
     <li>📫 How to reach me <a href="mailto:contact@diegofercri.dev">contact@diegofercri.dev</a></li>
